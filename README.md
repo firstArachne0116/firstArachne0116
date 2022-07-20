@@ -11,6 +11,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -241,13 +242,7 @@
   </a>
 </p>
 
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firstarachne0116&show_icons=true&locale=en&layout=compact" alt="firstarachne0116" />
-</a>
-
-<a href="#">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firstarachne0116&" alt="firstarachne0116" />
-</a>
-
+| <a href="#"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firstarachne0116&show_icons=true&locale=en&layout=compact" alt="firstarachne0116" /> </a> | <a href="#"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firstarachne0116&" alt="firstarachne0116" /> </a> |
+| ------------- | ------------- |
 <br />
 <br />
