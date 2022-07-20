@@ -241,11 +241,12 @@
   </a>
 </p>
 
-<p>
+<a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firstarachne0116&show_icons=true&locale=en&layout=compact" alt="firstarachne0116" />
-  &nbsp;
+</a>
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=firstarachne0116&show_icons=true&count_private=true&include_all_commits=true" alt="firstarachne0116" />
-</p>
+</a>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firstarachne0116&" alt="firstarachne0116" />
