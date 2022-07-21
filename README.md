@@ -1,7 +1,24 @@
-<h3 align="center">A senior software engineer</h3>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<h2 align="left">
+  Hi there!
+  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+</h2> 
+
+<h3 align="left">About me:</h3>
+
+- 😎 Interested in contributing expertise in web and blockchain development
+
+- 👯 Looking to collaborate on **Innovative Projects**
+
+- 👨‍💻 Former Frontend Lead Developer at [GonnaOrder](https://gonnaorder.com/).
+
+- 📚 Love reading books on personal development & financial literacy.
 
 - 📫 How to reach me **arachne0116@gmail.com**
 
+- 😄 Pronouns: He/Him.
+
+<br />
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
