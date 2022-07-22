@@ -12,15 +12,13 @@
 
 - 👯 Looking to collaborate on **Innovative Projects**
 
-- 👨‍💻 Former Frontend Lead Developer at [GonnaOrder](https://gonnaorder.com/).
+- 👨‍💻 Former Frontend Lead Developer at **[GonnaOrder](https://gonnaorder.com/)**.
 
 - 📚 Love reading books on personal development & financial literacy.
 
 - 📫 How to reach me **arachne0116@gmail.com**
 
 - 😄 Pronouns: He/Him.
-
-<br />
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
