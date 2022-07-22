@@ -8,7 +8,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 😎 Interested in contributing expertise in web and blockchain development
+- 😎 Interested in contributing expertise in web & app & blockchain development
 
 - 👯 Looking to collaborate on **Innovative Projects**
 
