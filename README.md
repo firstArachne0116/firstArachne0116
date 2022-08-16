@@ -12,8 +12,6 @@
 
 - 👯 Looking to collaborate on **Innovative Projects**
 
-- 👨‍💻 Former Frontend Lead Developer at [GonnaOrder](https://gonnaorder.com/).
-
 - 📚 Love reading books on personal development & financial literacy.
 
 - 📫 How to reach me **arachne0116@gmail.com**
