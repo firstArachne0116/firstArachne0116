@@ -8,7 +8,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 😎 Interested in contributing expertise in web and blockchain development
+- 😎 Interested in contributing expertise in web & app & blockchain development
 
 - 👯 Looking to collaborate on **Innovative Projects**
 
@@ -17,8 +17,6 @@
 - 📫 How to reach me **arachne0116@gmail.com**
 
 - 😄 Pronouns: He/Him.
-
-<br />
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
