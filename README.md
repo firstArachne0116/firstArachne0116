@@ -14,8 +14,6 @@
 
 - 📚 Love reading books on personal development & financial literacy.
 
-- 📫 How to reach me **arachne0116@gmail.com**
-
 - 😄 Pronouns: He/Him.
 <h3 align="left">Connect with me:</h3>
 
