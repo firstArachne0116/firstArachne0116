@@ -255,7 +255,7 @@
   </a>
 </p>
 
-| <a href="#"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firstarachne0116&show_icons=true&locale=en&layout=compact&hide_border=true&refresh=1" alt="firstarachne0116" /> </a> | <a href="#"> <img align="center" src="https://streak-stats.demolab.com/demo/preview.php?user=firstarachne0116&hide_border=true" alt="firstarachne0116" /> </a> |
+| <a href="#"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firstarachne0116&show_icons=true&locale=en&layout=compact&hide_border=true&hide=c%23,objective-c" alt="firstarachne0116" /> </a> | <a href="#"> <img align="center" src="https://streak-stats.demolab.com/demo/preview.php?user=firstarachne0116&hide_border=true&refresh=1" alt="firstarachne0116" /> </a> |
 | ------------- | ------------- |
 <br />
 <br />
